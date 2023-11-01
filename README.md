@@ -1,13 +1,12 @@
  [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Smruti Ranjan Basantia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate JAVA developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti-29&label=Profile%20views&color=0e75b6&style=flat" alt="smruti-29" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/smrutibasantia" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/smrutibasantia?logo=twitter&style=for-the-badge" alt="https://twitter.com/smrutibasantia" /></a> </p>
-
+ 
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://smrutiportfolio.netlify.app/](https://smrutiportfolio.netlify.app/)
